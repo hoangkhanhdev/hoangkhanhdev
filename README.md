@@ -1,6 +1,16 @@
 ## Hi👋,I'm KHÁNH IT
-
-
+<ul>
+<li>🇻🇳 : I'm from VietNam</li>
+<li>👀 : Here is [my personal website](https://www.facebook.com/?locale=vi_VN)</li>
+<li>📧 : Contact me at duyk26424@gmail.com</li>
+<li>❤️ : I'm passionate about:</li>
+  <ul>
+      <li>🔐 Cyber Security</li>
+      <li>🪐 Operating Systems (Windows & Linux)</li>
+      <li>🖥️ Website Developer</li>
+      <li>📝 Writeups and Documenting</li>
+  </ul>
+</ul>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/?locale=vi_VN) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18328208/kh%c3%a1nh-duy) 
