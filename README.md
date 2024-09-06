@@ -28,10 +28,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangkhanhdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
 ## 📈 User Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;theme=radical&amp;hide_border=true)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&amp;theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoangkhanhdev&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;theme=radical&amp;hide_border=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangkhanhdev&amp;theme=dracula)
 ## 🏆 GitHub Trophies
-[![trophy](https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=hoangkhanhdev&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
