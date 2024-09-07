@@ -1,7 +1,7 @@
 ## Hi👋,I'm KHÁNH IT
 <ul>
 <li>🇻🇳 : I'm from VietNam</li>
-<li>👀 : Here is <a href="https://www.facebook.com/?locale=vi_VN">my personal website </a> 
+<li>👀 : Here is <a href=" https://hoangkhanhdev.github.io/">my personal website </a> 
 <li>📧 : Contact me at <a href="duyk26424@gmail.com">duyk26424@gmail.com</a> </li>
 <li>❤️ : I'm passionate about:</li>
   <ul>
