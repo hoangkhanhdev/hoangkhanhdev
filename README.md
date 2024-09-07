@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hoangkhanhdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangkhanhdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangkhanhdev&title_color=61dafb&bg_color=20232a&text_color=ffffff&layout=compact)
 
 ## 📈 User Statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoangkhanhdev&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;theme=radical&amp;hide_border=true)<br/>
@@ -37,7 +37,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kevinlkhanhss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hoangkhanhdev&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kevinlkhanhss&icon=0&color=0)](https://visitcount.itsvg.in)
